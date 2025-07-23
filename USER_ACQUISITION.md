@@ -1,8 +1,8 @@
 # 📈 User Acquisition Strategy Document
 
-**Project**: DOCU QUERY AI
-**Owner**: Harish
-**Date**: July 23, 2025
+- **Project**: DOCU QUERY AI
+- **Owner**: Harish
+- **Date**: July 23, 2025
 
 ## 1. 🎯 Objective
 
