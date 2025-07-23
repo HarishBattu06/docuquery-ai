@@ -1,0 +1,7 @@
+streamlit
+python-dotenv
+llama-index
+langchain
+langchain-community
+huggingface-hub
+torch
