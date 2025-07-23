@@ -6,7 +6,7 @@
 
 ## 1. 🎯 Objective
 
-The goal of this strategy is to attract, onboard, and retain users for the **PDF Chat Assistant**, an AI-powered tool that enables users to upload and interact with PDF documents using natural language queries. The strategy focuses on increasing visibility, usage, and community engagement with minimal marketing budget.
+The goal of this strategy is to attract, onboard, and retain users for the **DOCU QUERY AI**, an AI-powered tool that enables users to upload and interact with PDF documents using natural language queries. The strategy focuses on increasing visibility, usage, and community engagement with minimal marketing budget.
 
 ## 2. 🧑‍💻 Target Audience
 
