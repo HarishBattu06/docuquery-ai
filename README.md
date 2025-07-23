@@ -32,14 +32,20 @@ streamlit run app.py
 ```
 
 📁 **Directory Structure**
+
+```bash
 docuquery-ai/
 ├── data/               # Folder for uploaded PDFs
 ├── db/                 # Persisted vector index
 ├── app.py              # Main application file
+```
 
 🧠 **Technologies**
-Streamlit
-LangChain
-LlamaIndex
-Ollama
-HuggingFace Transformers
+
+```bash
+- Streamlit
+- LangChain
+- LlamaIndex
+- Ollama
+- HuggingFace Transformers
+```
